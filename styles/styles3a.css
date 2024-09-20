@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-item{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    text-decoration: underline;
+    color: black;
+}
+.links-tab{
+    padding: 40px;
+    font-size: 15px;
+}
+.nav-link:visited{
+    color: black;
+}
